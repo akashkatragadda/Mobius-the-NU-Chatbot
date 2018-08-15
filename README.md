@@ -24,8 +24,8 @@ Added New GUI compatible with all browsers, mobiles with autoscroll
 
 5. You're done and let's chat with Mobius via browser.
 
-## Screenshot
-![chatbot](https://user-images.githubusercontent.com/1708683/27002771-68618802-4e0b-11e7-870a-3c05e3f68146.png)
+## Video Demo
+https://drive.google.com/a/st.niituniversity.in/file/d/1vRxB1ul-Nuvx2kAuHV6HuJnaH3J4I7_K/view?usp=drivesdk
 
 ## Author
 
