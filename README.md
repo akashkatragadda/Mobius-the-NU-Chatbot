@@ -1,4 +1,4 @@
-# Chatbot
+# Mobius the NU Chatbot
 AI Based Chatbot
 
 Added New GUI compatible with all browsers, mobiles with autoscroll
